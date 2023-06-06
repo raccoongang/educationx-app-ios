@@ -171,7 +171,7 @@ public class PostsViewModel: ObservableObject {
     func getPostsPagination(courseID: String, index: Int, withProgress: Bool = true) async {
         if !fetchInProgress {
             if totalPages > 1 {
-                if index == threads.threads.count - 3 {
+                if index == filteredPosts.count - 3 {
                     if totalPages != 1 {
                         if nextPage <= totalPages {
                             _ = await getPosts(courseID: courseID,
@@ -186,6 +186,7 @@ public class PostsViewModel: ObservableObject {
     
     @MainActor
     public func getPosts(courseID: String, pageNumber: Int, withProgress: Bool = true) async -> Bool {
+        fetchInProgress = true
         isShowProgress = withProgress
         do {
             switch type {
@@ -199,6 +200,7 @@ public class PostsViewModel: ObservableObject {
                 if threads.threads.indices.contains(0) {
                     self.totalPages = threads.threads[0].numPages
                     self.nextPage += 1
+                    fetchInProgress = false
                 }
             case .followingPosts:
                 threads.threads += try await interactor
@@ -210,6 +212,7 @@ public class PostsViewModel: ObservableObject {
                 if threads.threads.indices.contains(0) {
                     self.totalPages = threads.threads[0].numPages
                     self.nextPage += 1
+                    fetchInProgress = false
                 }
             case .nonCourseTopics:
                 threads.threads += try await interactor
@@ -221,6 +224,7 @@ public class PostsViewModel: ObservableObject {
                 if threads.threads.indices.contains(0) {
                     self.totalPages = threads.threads[0].numPages
                     self.nextPage += 1
+                    fetchInProgress = false
                 }
             case .courseTopics(topicID: let topicID):
                 threads.threads += try await interactor
@@ -232,6 +236,7 @@ public class PostsViewModel: ObservableObject {
                 if threads.threads.indices.contains(0) {
                     self.totalPages = threads.threads[0].numPages
                     self.nextPage += 1
+                    fetchInProgress = false
                 }
             case .none:
                 isShowProgress = false
