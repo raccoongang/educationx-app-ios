@@ -409,7 +409,7 @@ And there are various ways of describing it-- call it oral poetry or
               "legacy_web_url": "https://lms.lilac-vso-dev.raccoongang.com/courses/course-v1:QA+comparison+2022/jump_to/block-v1:QA+comparison+2022+type@comparison+block@be1704c576284ba39753c6f0ea4a4c78?experience=legacy",
               "student_view_url": "https://lms.lilac-vso-dev.raccoongang.com/xblock/block-v1:QA+comparison+2022+type@comparison+block@be1704c576284ba39753c6f0ea4a4c78",
               "type": "comparison",
-              "display_name": "Співставлення",
+              "display_name": "Comparison",
               "graded": false,
               "student_view_multi_device": false,
               "block_counts": {
@@ -445,7 +445,7 @@ And there are various ways of describing it-- call it oral poetry or
               "legacy_web_url": "https://lms.lilac-vso-dev.raccoongang.com/courses/course-v1:QA+comparison+2022/jump_to/block-v1:QA+comparison+2022+type@comparison+block@06c17035106e48328ebcd042babcf47b?experience=legacy",
               "student_view_url": "https://lms.lilac-vso-dev.raccoongang.com/xblock/block-v1:QA+comparison+2022+type@comparison+block@06c17035106e48328ebcd042babcf47b",
               "type": "comparison",
-              "display_name": "Співставлення",
+              "display_name": "Comparison",
               "graded": false,
               "student_view_multi_device": false,
               "block_counts": {
@@ -535,7 +535,7 @@ And there are various ways of describing it-- call it oral poetry or
               "legacy_web_url": "https://lms.lilac-vso-dev.raccoongang.com/courses/course-v1:QA+comparison+2022/jump_to/block-v1:QA+comparison+2022+type@comparison+block@23e10dea806345b19b77997b4fc0eea7?experience=legacy",
               "student_view_url": "https://lms.lilac-vso-dev.raccoongang.com/xblock/block-v1:QA+comparison+2022+type@comparison+block@23e10dea806345b19b77997b4fc0eea7",
               "type": "comparison",
-              "display_name": "Співставлення",
+              "display_name": "Comparison",
               "graded": false,
               "student_view_multi_device": false,
               "block_counts": {
@@ -553,7 +553,7 @@ And there are various ways of describing it-- call it oral poetry or
               "legacy_web_url": "https://lms.lilac-vso-dev.raccoongang.com/courses/course-v1:QA+comparison+2022/jump_to/block-v1:QA+comparison+2022+type@vertical+block@29e7eddbe8964770896e4036748c9904?experience=legacy",
               "student_view_url": "https://lms.lilac-vso-dev.raccoongang.com/xblock/block-v1:QA+comparison+2022+type@vertical+block@29e7eddbe8964770896e4036748c9904",
               "type": "vertical",
-              "display_name": "Юніт",
+              "display_name": "Unit",
               "graded": false,
               "student_view_multi_device": false,
               "block_counts": {
@@ -578,7 +578,7 @@ And there are various ways of describing it-- call it oral poetry or
               "legacy_web_url": "https://lms.lilac-vso-dev.raccoongang.com/courses/course-v1:QA+comparison+2022/jump_to/block-v1:QA+comparison+2022+type@sequential+block@f468bb5c6e8641179e523c7fcec4e6d6?experience=legacy",
               "student_view_url": "https://lms.lilac-vso-dev.raccoongang.com/xblock/block-v1:QA+comparison+2022+type@sequential+block@f468bb5c6e8641179e523c7fcec4e6d6",
               "type": "sequential",
-              "display_name": "Підрозділ",
+              "display_name": "Subsection",
               "graded": false,
               "student_view_multi_device": false,
               "block_counts": {
@@ -657,7 +657,7 @@ And there are various ways of describing it-- call it oral poetry or
               "legacy_web_url": "https://lms.lilac-vso-dev.raccoongang.com/courses/course-v1:QA+comparison+2022/jump_to/block-v1:QA+comparison+2022+type@vertical+block@e5b2e105f4f947c5b76fb12c35da1eca?experience=legacy",
               "student_view_url": "https://lms.lilac-vso-dev.raccoongang.com/xblock/block-v1:QA+comparison+2022+type@vertical+block@e5b2e105f4f947c5b76fb12c35da1eca",
               "type": "vertical",
-              "display_name": "Юніт",
+              "display_name": "Unit",
               "graded": false,
               "student_view_multi_device": false,
               "block_counts": {
@@ -677,7 +677,7 @@ And there are various ways of describing it-- call it oral poetry or
               "legacy_web_url": "https://lms.lilac-vso-dev.raccoongang.com/courses/course-v1:QA+comparison+2022/jump_to/block-v1:QA+comparison+2022+type@sequential+block@d37cb0c5c2d24ddaacf3494760a055f2?experience=legacy",
               "student_view_url": "https://lms.lilac-vso-dev.raccoongang.com/xblock/block-v1:QA+comparison+2022+type@sequential+block@d37cb0c5c2d24ddaacf3494760a055f2",
               "type": "sequential",
-              "display_name": "Ще один Підрозділ",
+              "display_name": "Another one subsection",
               "graded": false,
               "student_view_multi_device": false,
               "block_counts": {
@@ -695,7 +695,7 @@ And there are various ways of describing it-- call it oral poetry or
               "legacy_web_url": "https://lms.lilac-vso-dev.raccoongang.com/courses/course-v1:QA+comparison+2022/jump_to/block-v1:QA+comparison+2022+type@chapter+block@abecaefe203c4c93b441d16cea3b7846?experience=legacy",
               "student_view_url": "https://lms.lilac-vso-dev.raccoongang.com/xblock/block-v1:QA+comparison+2022+type@chapter+block@abecaefe203c4c93b441d16cea3b7846",
               "type": "chapter",
-              "display_name": "Розділ",
+              "display_name": "Section",
               "graded": false,
               "student_view_multi_device": false,
               "block_counts": {
@@ -714,7 +714,7 @@ And there are various ways of describing it-- call it oral poetry or
               "legacy_web_url": "https://lms.lilac-vso-dev.raccoongang.com/courses/course-v1:QA+comparison+2022/jump_to/block-v1:QA+comparison+2022+type@pdf+block@a0c3ac29daab425f92a34b34eb2af9de?experience=legacy",
               "student_view_url": "https://lms.lilac-vso-dev.raccoongang.com/xblock/block-v1:QA+comparison+2022+type@pdf+block@a0c3ac29daab425f92a34b34eb2af9de",
               "type": "pdf",
-              "display_name": "PDF файл заголовок",
+              "display_name": "PDF title",
               "graded": false,
               "student_view_data": {
                 "last_modified": "2023-04-26T08:43:45Z",
@@ -824,7 +824,7 @@ And there are various ways of describing it-- call it oral poetry or
               "legacy_web_url": "https://lms.lilac-vso-dev.raccoongang.com/courses/course-v1:QA+comparison+2022/jump_to/block-v1:QA+comparison+2022+type@vertical+block@e2faa0e62223489e91a41700865c5fc1?experience=legacy",
               "student_view_url": "https://lms.lilac-vso-dev.raccoongang.com/xblock/block-v1:QA+comparison+2022+type@vertical+block@e2faa0e62223489e91a41700865c5fc1",
               "type": "vertical",
-              "display_name": "Юніт",
+              "display_name": "Unit",
               "graded": false,
               "student_view_multi_device": false,
               "block_counts": {
@@ -864,7 +864,7 @@ And there are various ways of describing it-- call it oral poetry or
               "legacy_web_url": "https://lms.lilac-vso-dev.raccoongang.com/courses/course-v1:QA+comparison+2022/jump_to/block-v1:QA+comparison+2022+type@vertical+block@8ba437d8b20d416d91a2d362b0c940a4?experience=legacy",
               "student_view_url": "https://lms.lilac-vso-dev.raccoongang.com/xblock/block-v1:QA+comparison+2022+type@vertical+block@8ba437d8b20d416d91a2d362b0c940a4",
               "type": "vertical",
-              "display_name": "Юніт",
+              "display_name": "Unit",
               "graded": false,
               "student_view_multi_device": false,
               "block_counts": {
@@ -904,7 +904,7 @@ And there are various ways of describing it-- call it oral poetry or
               "legacy_web_url": "https://lms.lilac-vso-dev.raccoongang.com/courses/course-v1:QA+comparison+2022/jump_to/block-v1:QA+comparison+2022+type@vertical+block@2c344115d3554ac58c140ec86e591aa1?experience=legacy",
               "student_view_url": "https://lms.lilac-vso-dev.raccoongang.com/xblock/block-v1:QA+comparison+2022+type@vertical+block@2c344115d3554ac58c140ec86e591aa1",
               "type": "vertical",
-              "display_name": "Юніт",
+              "display_name": "Unit",
               "graded": false,
               "student_view_multi_device": false,
               "block_counts": {
@@ -922,7 +922,7 @@ And there are various ways of describing it-- call it oral poetry or
               "legacy_web_url": "https://lms.lilac-vso-dev.raccoongang.com/courses/course-v1:QA+comparison+2022/jump_to/block-v1:QA+comparison+2022+type@sequential+block@6c9c6ba663b54c0eb9cbdcd0c6b4bebe?experience=legacy",
               "student_view_url": "https://lms.lilac-vso-dev.raccoongang.com/xblock/block-v1:QA+comparison+2022+type@sequential+block@6c9c6ba663b54c0eb9cbdcd0c6b4bebe",
               "type": "sequential",
-              "display_name": "Підрозділ",
+              "display_name": "Subsection",
               "graded": false,
               "student_view_multi_device": false,
               "block_counts": {
@@ -960,7 +960,7 @@ And there are various ways of describing it-- call it oral poetry or
               "legacy_web_url": "https://lms.lilac-vso-dev.raccoongang.com/courses/course-v1:QA+comparison+2022/jump_to/block-v1:QA+comparison+2022+type@chapter+block@7ab45affb80f4846a60648ec6aff9fbf?experience=legacy",
               "student_view_url": "https://lms.lilac-vso-dev.raccoongang.com/xblock/block-v1:QA+comparison+2022+type@chapter+block@7ab45affb80f4846a60648ec6aff9fbf",
               "type": "chapter",
-              "display_name": "Розділ",
+              "display_name": "Section",
               "graded": false,
               "student_view_multi_device": false,
               "block_counts": {
@@ -996,7 +996,7 @@ And there are various ways of describing it-- call it oral poetry or
           "number": "comparison",
           "org": "QA",
           "start": "2022-01-01T00:00:00Z",
-          "start_display": "01 січня 2022 р.",
+          "start_display": "01 january 2022 р.",
           "start_type": "timestamp",
           "end": null,
           "courseware_access": {
